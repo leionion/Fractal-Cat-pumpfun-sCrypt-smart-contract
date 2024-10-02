@@ -12,7 +12,7 @@ The **Fractal-Cat-pumpfun-sCrypt-smart-contract** project leverages the Fractal 
 3. **Integration of OP_CAT**: The smart contract makes use of the OP_CAT opcode to improve contract programmability and execution.
 
 ## Prerequisites
-
+ 
 - Node.js and npm installed on your system.
 - Access to the Fractal Bitcoin network node.
 - Familiarity with sCrypt and Bitcoin script programming.
