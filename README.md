@@ -5,7 +5,7 @@ The smart contract for the Cat Protocol utilizes sCrypt to implement pump.fun on
 
 The **Fractal-Cat-pumpfun-sCrypt-smart-contract** project leverages the Fractal Bitcoin network's capabilities to implement a smart contract for the Cat Protocol using sCrypt. This project enables users to mint, trade, and transfer CAT20 tokens. The implementation takes advantage of the OP_CAT opcode to enhance Bitcoin's functionality, providing features akin to those seen in smart contracts on other blockchain platforms.
 
-## Features
+## Features 
 
 1. **Minting of CAT20 Tokens**: Utilize the sCrypt-based smart contract to mint new CAT20 tokens on the Fractal Bitcoin network.
 2. **Trading and Transfer**: Facilitate the trading and transfer of CAT20 tokens within the network using the pump.fun implementation.
