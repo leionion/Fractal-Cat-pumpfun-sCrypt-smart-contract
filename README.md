@@ -156,5 +156,5 @@ This detailed implementation leverages sCrypt's capabilities for secure and effi
 
 ## Contact Info
 
-- Twitter: https://x.com/chain_sats/
-- Telegram: https://t.me/inscNix/
+- Twitter: https://x.com/rez_cats/
+- Telegram: https://t.me/leionion/
